@@ -1,3 +1,12 @@
+## Context
+This dataset was created and used in order to determine the popularity of an article before it was published online but thanks to its flexibility can be used in various tasks.
+
+## Content
+The internet news data was collected between 03.09.2019 and 04.11.2019 (DD.MM.YYYY). It contains articles (listed as the top in popularity at the publisher website) from multiple well-known publishers. Then using Facebook GraphAPI data was enriched with engagement features such as shares, reactions, and comments count.
+
+
+
+## Data Dictionary
 <ol>
   <li> Sourceid column - value indicates publisher unique identifier usually presented as lowercase sourcename with spaces replaced with underscore symbol.
 </li>
