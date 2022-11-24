@@ -1,4 +1,3 @@
-# projectTemplate
 <ol>
   <li> Sourceid column - value indicates publisher unique identifier usually presented as lowercase sourcename with spaces replaced with underscore symbol.
 </li>
